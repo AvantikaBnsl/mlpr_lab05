@@ -1,3 +1,3 @@
 import cv2
-cv2.imread("Downloads\Dr_Shashi_Tharoor.jpg")
-cv2.imread("Downloads\Plaksha_Faculty.jpg")
+cv2.imread("Dr_Shashi_Tharoor.jpg")
+cv2.imread("Plaksha_Faculty.jpg")
